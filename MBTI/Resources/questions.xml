@@ -1,47 +1,227 @@
-
 <Questions>
-    <!-- 외향/내향 -->
+    <!-- 외향/내향 질문 -->
     <Question id="1" type="E-I">
-        <Text>다른 사람과 어울리는 것을 좋아합니까?</Text>
+        <Text>다른 사람들과 함께 있을 때 에너지가 충전되나요?</Text>
         <Options>
             <Option score="E">예</Option>
             <Option score="I">아니오</Option>
         </Options>
     </Question>
     <Question id="2" type="E-I">
-        <Text>혼자 있는 시간이 필요하다고 느낍니까?</Text>
+        <Text>혼자 있는 시간이 더 편안한가요?</Text>
         <Options>
             <Option score="I">예</Option>
             <Option score="E">아니오</Option>
         </Options>
     </Question>
+    <Question id="3" type="E-I">
+        <Text>새로운 사람들과 만나는 것을 즐기나요?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="4" type="E-I">
+        <Text>혼자 시간을 보내는 것이 어색하다고 느끼나요?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="5" type="E-I">
+        <Text>대규모 모임에서 더 편안한가요?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
     
-    <!-- 감각/직관 -->
-    <Question id="3" type="S-N">
-        <Text>구체적인 사실을 중시합니까?</Text>
+    <!-- 감각/직관 질문 -->
+    <Question id="6" type="S-N">
+        <Text>구체적인 사실을 선호하나요?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="7" type="S-N">
+        <Text>추상적인 아이디어보다 실용적인 정보를 더 중시하나요?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="8" type="S-N">
+        <Text>상상보다는 현실을 더 중요하게 생각하나요?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="9" type="S-N">
+        <Text>경험을 통해 배우는 것을 선호하나요?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="10" type="S-N">
+        <Text>세부 사항을 빠뜨리지 않고 주의 깊게 보나요?</Text>
         <Options>
             <Option score="S">예</Option>
             <Option score="N">아니오</Option>
         </Options>
     </Question>
     
-    <!-- 사고/감정 -->
-    <Question id="4" type="T-F">
-        <Text>결정할 때 논리적인 판단을 우선합니까?</Text>
+    <!-- 사고/감정 질문 -->
+    <Question id="11" type="T-F">
+        <Text>논리적 사고를 통해 결정을 내리나요?</Text>
         <Options>
             <Option score="T">예</Option>
             <Option score="F">아니오</Option>
         </Options>
     </Question>
-
-    <!-- 판단/인식 -->
-    <Question id="5" type="J-P">
-        <Text>계획을 세우고 따르는 것을 좋아합니까?</Text>
+    <Question id="12" type="T-F">
+        <Text>사람들보다 원칙에 따라 결정을 내리는 편인가요?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="13" type="T-F">
+        <Text>논리와 객관성을 중시하나요?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="14" type="T-F">
+        <Text>갈등을 피하기 위해 타인의 감정에 주의하지 않나요?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="15" type="T-F">
+        <Text>감정보다는 객관적 사실에 더 중점을 두나요?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+    
+    <!-- 판단/인식 질문 -->
+    <Question id="16" type="J-P">
+        <Text>계획을 세우고 이를 지키는 것을 선호하나요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="17" type="J-P">
+        <Text>정해진 일정에 따라 일을 처리하는 것을 좋아하나요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="18" type="J-P">
+        <Text>미리 정해진 계획이 없으면 불안한가요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="19" type="J-P">
+        <Text>갑작스러운 변경보다 미리 계획된 일정을 선호하나요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="20" type="J-P">
+        <Text>시간 관리를 엄격하게 하는 편인가요?</Text>
         <Options>
             <Option score="J">예</Option>
             <Option score="P">아니오</Option>
         </Options>
     </Question>
     
-    <!-- 추가 질문들 -->
+    <!-- 추가 외향/내향 질문 -->
+    <Question id="21" type="E-I">
+        <Text>다른 사람과 쉽게 친해지나요?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="22" type="E-I">
+        <Text>사람들과의 관계에 신경을 많이 쓰나요?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="23" type="E-I">
+        <Text>사람들을 만나는 일이 즐거운가요?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
+
+    <!-- 추가 감각/직관 질문 -->
+    <Question id="24" type="S-N">
+        <Text>상상력보다 현실에 기반한 사고를 하시나요?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="25" type="S-N">
+        <Text>추상적인 개념보다 명확한 답을 원하나요?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+
+    <!-- 추가 사고/감정 질문 -->
+    <Question id="26" type="T-F">
+        <Text>논리적으로 문제를 해결하는 편인가요?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="27" type="T-F">
+        <Text>감정보다는 정확한 사실을 더 중요하게 생각하나요?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+
+    <!-- 추가 판단/인식 질문 -->
+    <Question id="28" type="J-P">
+        <Text>정리된 환경에서 일하는 것이 더 좋나요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="29" type="J-P">
+        <Text>정해진 계획에 따라 일을 진행하는 편인가요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="30" type="J-P">
+        <Text>갑작스러운 변화보다 예상 가능한 일정을 선호하나요?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
 </Questions>
