@@ -1,0 +1,50 @@
+<MBTIDescriptions>
+    <Type id="INTJ">
+        <Description>INTJ 유형은 전략적 사고와 독립적인 문제 해결 능력을 가지고 있습니다. 분석적이며 계획적이고, 목표를 체계적으로 달성하려고 합니다. 창의적이고 혁신적인 아이디어를 선호하며, 미래에 대한 비전을 중시합니다.</Description>
+    </Type>
+    <Type id="INTP">
+        <Description>INTP 유형은 지식과 논리에 대한 깊은 호기심을 가지고 있으며, 이론을 탐구하고 분석하는 것을 즐깁니다. 독창적이고 창의적인 해결책을 찾는 데 능하며, 자유로운 사고를 중요시합니다.</Description>
+    </Type>
+    <Type id="ENTJ">
+        <Description>ENTJ 유형은 리더십이 강하며 목표를 달성하기 위해 계획을 세우고 추진합니다. 효율적이고 조직적이며, 목표 달성을 위해 주변을 독려하고 이끌어 나가는 데 능합니다.</Description>
+    </Type>
+    <Type id="ENTP">
+        <Description>ENTP 유형은 창의적이고 논리적인 사고를 통해 새로운 아이디어를 탐구하고 도전하는 것을 즐깁니다. 논쟁과 문제 해결을 통해 성장하며, 개방적이고 변화에 유연합니다.</Description>
+    </Type>
+    <Type id="INFJ">
+        <Description>INFJ 유형은 직관적이며, 사람들에게 깊은 관심을 가지고 있습니다. 동정심이 많고 헌신적이며, 이상주의적인 목표를 가지고 타인을 돕고자 합니다. 감정적으로 매우 민감하고 강한 직감을 가지고 있습니다.</Description>
+    </Type>
+    <Type id="INFP">
+        <Description>INFP 유형은 이상적인 가치를 중시하며, 창의적이고 감정적으로 민감합니다. 타인에게 따뜻하게 다가가고 공감하는 능력이 뛰어나며, 내면의 가치와 조화를 이루는 삶을 추구합니다.</Description>
+    </Type>
+    <Type id="ENFJ">
+        <Description>ENFJ 유형은 타인의 감정에 민감하며, 사람들과 조화를 이루는 것을 중요하게 생각합니다. 사교적이며, 리더십이 강하고 타인을 돕고자 하는 마음이 큽니다. 주변 사람들에게 긍정적인 영향을 주려는 경향이 있습니다.</Description>
+    </Type>
+    <Type id="ENFP">
+        <Description>ENFP 유형은 열정적이고 창의적인 사고를 가지며, 사람들과의 관계를 중요하게 여깁니다. 자유롭고 유연한 사고를 중시하며, 직관적이고 사람들과의 교감을 통해 에너지를 얻습니다.</Description>
+    </Type>
+    <Type id="ISTJ">
+        <Description>ISTJ 유형은 책임감이 강하고 실용적입니다. 규칙을 따르고 계획적으로 행동하며, 논리적이고 안정적입니다. 신뢰할 수 있는 사람으로 평가되며, 목표를 달성하기 위해 체계적으로 접근합니다.</Description>
+    </Type>
+    <Type id="ISFJ">
+        <Description>ISFJ 유형은 헌신적이고 섬세하며 타인을 돕는 것을 좋아합니다. 세심하고 실용적이며, 강한 책임감을 가지고 있습니다. 가족과 공동체에 대한 충성심이 강하며, 주변 사람들에게 따뜻하게 대합니다.</Description>
+    </Type>
+    <Type id="ESTJ">
+        <Description>ESTJ 유형은 논리적이고 조직적이며, 목표 달성을 위해 구조적인 접근을 선호합니다. 리더십이 강하며, 효율적이고 실용적인 사고방식을 가지고 있습니다. 규율과 질서를 중시하는 편입니다.</Description>
+    </Type>
+    <Type id="ESFJ">
+        <Description>ESFJ 유형은 사교적이고 따뜻하며, 타인을 돕는 것을 좋아합니다. 친절하고 신뢰할 수 있는 사람으로, 타인의 감정과 요구에 민감하게 반응하며 조화를 이루는 것을 중요하게 생각합니다.</Description>
+    </Type>
+    <Type id="ISTP">
+        <Description>ISTP 유형은 현실적이고 논리적이며, 문제 해결을 즐깁니다. 실용적이고 독립적인 성향이 강하며, 구체적이고 현실적인 방법을 통해 문제를 해결합니다. 신체 활동과 실질적인 경험을 중시합니다.</Description>
+    </Type>
+    <Type id="ISFP">
+        <Description>ISFP 유형은 자유롭고 감성적인 성향을 가지고 있으며, 타인의 감정을 이해하고 공감하는 능력이 뛰어납니다. 아름다움과 예술을 사랑하며, 독창적이고 직관적인 방식으로 세계를 바라봅니다.</Description>
+    </Type>
+    <Type id="ESTP">
+        <Description>ESTP 유형은 현실적이고 활동적이며, 즉각적인 결과를 중시합니다. 문제를 신속하게 해결하고, 새로운 경험과 모험을 즐깁니다. 사람들과 잘 어울리며, 융통성 있고 유연한 사고방식을 가지고 있습니다.</Description>
+    </Type>
+    <Type id="ESFP">
+        <Description>ESFP 유형은 사교적이고 활동적이며, 사람들과의 상호작용을 통해 에너지를 얻습니다. 삶을 즐기며, 긍정적인 태도로 새로운 경험을 즐기고 사람들에게 즐거움을 주는 것을 좋아합니다.</Description>
+    </Type>
+</MBTIDescriptions>

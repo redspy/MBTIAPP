@@ -25,7 +25,15 @@ struct ResultView: View {
             
             Spacer()
 
-            // 초기화 버튼
+            Text(viewModel.resultDescription)
+                .font(.body)
+                .padding()
+                .background(Color(.systemGray6))
+                .cornerRadius(10)
+                .padding(.horizontal, 16)
+
+            Spacer()
+
             Button(action: {
                 viewModel.resetTest()
             }) {
