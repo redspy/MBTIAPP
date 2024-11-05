@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct MBTIApp: App {
+struct MBTITestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QuestionView(viewModel: MBTITestViewModel())
         }
     }
 }
