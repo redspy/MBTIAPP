@@ -1,0 +1,47 @@
+
+<Questions>
+    <!-- 외향/내향 -->
+    <Question id="1" type="E-I">
+        <Text>다른 사람과 어울리는 것을 좋아합니까?</Text>
+        <Options>
+            <Option score="E">예</Option>
+            <Option score="I">아니오</Option>
+        </Options>
+    </Question>
+    <Question id="2" type="E-I">
+        <Text>혼자 있는 시간이 필요하다고 느낍니까?</Text>
+        <Options>
+            <Option score="I">예</Option>
+            <Option score="E">아니오</Option>
+        </Options>
+    </Question>
+    
+    <!-- 감각/직관 -->
+    <Question id="3" type="S-N">
+        <Text>구체적인 사실을 중시합니까?</Text>
+        <Options>
+            <Option score="S">예</Option>
+            <Option score="N">아니오</Option>
+        </Options>
+    </Question>
+    
+    <!-- 사고/감정 -->
+    <Question id="4" type="T-F">
+        <Text>결정할 때 논리적인 판단을 우선합니까?</Text>
+        <Options>
+            <Option score="T">예</Option>
+            <Option score="F">아니오</Option>
+        </Options>
+    </Question>
+
+    <!-- 판단/인식 -->
+    <Question id="5" type="J-P">
+        <Text>계획을 세우고 따르는 것을 좋아합니까?</Text>
+        <Options>
+            <Option score="J">예</Option>
+            <Option score="P">아니오</Option>
+        </Options>
+    </Question>
+    
+    <!-- 추가 질문들 -->
+</Questions>
